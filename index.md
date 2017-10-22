@@ -2,8 +2,8 @@
 <html>
 	<head>
 	  	<meta charset="utf-8">
-		<title>Tendencia en compra de libros</title>
-		<meta name="description" content="Tendencia en la compra de libros en Amazon">
+		<title>Tendencia en compra conjunta de libros de política Estadounidence</title>
+		<meta name="description" content="Tendencia en compra conjunta de libros de política Estadounidence">
  		<meta name="keywords" content="Books, Amazon">	  	
 	  	<style>
 		  body {
@@ -19,12 +19,12 @@
 	        text-align: justify;
 	      }
 	      b {
-	        font-size: 15px;
+	        font-size: 18px;
 	      }
 		</style>	  	
 	</head>
 	<body>
-		<h1 align="center">Tendencia en compra de libros de política por usuarios de Amazon</h1>
+		<h1 align="center">Tendencia en compra conjunta de libros de política de US por usuarios de Amazon.com</h1>
 		<div><iframe src="books_adjacence.html" frameborder="0" width="1500" height="1500" scrolling="yes"></iframe></div>
 		</table>
 	    <p align="center" style="font-size: 13px; text-align: center;">
