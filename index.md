@@ -5,23 +5,7 @@
 		<title>Tendencia en compra conjunta de libros de política Estadounidence</title>
 		<meta name="description" content="Tendencia en compra conjunta de libros de política Estadounidence">
  		<meta name="keywords" content="Books, Amazon">	  	
-	  	<style>
-		  body {
-		      font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-		      color: rgb(128,128,128);
-		  } 
-		  div {
-		    margin: auto;
-		    padding: 10px;
-		  }	
-  	      p li {
-	        font-size: 14px;
-	        text-align: justify;
-	      }
-	      b {
-	        font-size: 18px;
-	      }
-		</style>	  	
+	  	  	
 	</head>
 	<body>
 		<h1 align="center">Tendencia en compra conjunta de libros de política de US por usuarios de Amazon.com</h1>
