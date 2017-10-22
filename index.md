@@ -1,6 +1,3 @@
-
-# Compra conjunta de libros de política de Estados Unidos por usuarios de Amazon.com
-
 ## Descripción del Dataset<br><br>
 - El data set fue obtenido del Network data repository de la Universidad de California y coresponde a una red de libros sobre política estadounidense publicada alrededor de las elecciones presidenciales de 2004 y vendida en línea por Amazon.com. Los links entre libros representan la frecuente compra de libros por parte de los mismos compradores. La red fue compilada por V. Krebs.<br>
 - Está conformado por 104 nodos y 441 enlaces.<br>
