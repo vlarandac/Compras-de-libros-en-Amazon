@@ -1,4 +1,3 @@
-<html>
 	<head>
 	  	<meta charset="utf-8">
 		<title>Tendencia en compra conjunta de libros de política Estadounidence</title>
@@ -6,10 +5,9 @@
  		<meta name="keywords" content="Books, Amazon">	  	
 	  	  	
 	</head>
-	<body>
-		<h1 align="center">Tendencia en compra conjunta de libros de política de US por usuarios de Amazon.com</h1>
+#Tendencia en compra conjunta de libros de política de US por usuarios de Amazon.com
 		
-	El data set fue obtenido del portal de descarga de datasets http://www-personal.umich.edu/~mejn/netdata/ y coresponde a una red de libros sobre política estadounidense publicada alrededor de las elecciones presidenciales de 2004 y vendida en línea por Amazon.com. Los links entre libros representan la frecuente compra de libros por parte de los mismos compradores. La red fue compilada por V. Krebs.
+	El data set fue obtenido del [Network data repository](http://networkdata.ics.uci.edu/data.php?d=polbooks) e la Universidad de California y coresponde a una red de libros sobre política estadounidense publicada alrededor de las elecciones presidenciales de 2004 y vendida en línea por Amazon.com. Los links entre libros representan la frecuente compra de libros por parte de los mismos compradores. La red fue compilada por V. Krebs.
 	
 		<div><iframe src="books_adjacence.html" frameborder="0" width="1500" height="1500" scrolling="yes"></iframe></div>
 
@@ -21,5 +19,3 @@
 	      Visual Analytics
 	    </p>
 
-	</body>
-</html>
