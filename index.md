@@ -24,7 +24,7 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 		<title>Tendencia en compra de libros de política de EEUU en Amazon.com</title>
 	</head>
 	<body>
-		<div><iframe src="books_adjacence.html" frameborder="0" width="1500" height="1500" scrolling="yes"></iframe></div>
+		<div><iframe src="books_adjacence.html" frameborder="0" width="1200" height="1200" scrolling="yes"></iframe></div>
 	
 <p align="center" style="font-size: 13px; text-align: center;">
 	      Vivian Lucia Aranda Camacho<br>
