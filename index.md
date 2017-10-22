@@ -2,7 +2,7 @@
 #Tendencia en compra conjunta de libros de política de US por usuarios de Amazon.com
 <br/><br/>
 ### Descripción del Dataset 
-El data set fue obtenido del [Network data repository](http://networkdata.ics.uci.edu/data.php?d=polbooks) e la Universidad de California y coresponde a una red de libros sobre política estadounidense publicada alrededor de las elecciones presidenciales de 2004 y vendida en línea por Amazon.com. Los links entre libros representan la frecuente compra de libros por parte de los mismos compradores. La red fue compilada por V. Krebs.
+El data set fue obtenido del [Network data repository](http://networkdata.ics.uci.edu/data.php?d=polbooks) de la Universidad de California y coresponde a una red de libros sobre política estadounidense publicada alrededor de las elecciones presidenciales de 2004 y vendida en línea por Amazon.com. Los links entre libros representan la frecuente compra de libros por parte de los mismos compradores. La red fue compilada por V. Krebs.
 	
 <html class="ocks-org do-not-copy">
 <head>
