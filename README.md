@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# VisualAnalytics-Compras de libros de Política de Estados Unidos
 
-You can use the [editor on GitHub](https://github.com/vlarandac/Compras-de-libros-en-Amazon-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este proyecto es un análisis de los datos de una red de libros sobre política estadounidense publicada alrededor de las elecciones presidenciales de 2004 y vendida en línea por Amazon.com. Los links entre libros representan la frecuente compra de libros por parte de los mismos compradores. La red fue compilada por [V. Krebs, unpublished](http://www.orgnet.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Los nodos representan libros sobre la política de los EE. UU. Vendidos por en línea Amazon.com. Los enlaces representan la frecuente compra conjunta de libros por parte de los mismos compradores: "los clientes que compraron este libro también compraron estos otros libros" en Amazon.
 
-### Markdown
+Los nodos reciben valores **"l"**, **"n"** o **"c"** para indicar si son **"liberales"**, **"neutrales"** o **"conservadores"** de acuerdo con lo consignado por Mark Newman basado en una lectura de las descripciones y revisiones de los libros publicados en Amazon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Las tareas que se buscan conseguir por medio de estas visualizaciones son:<br/>
+○ H1 - Identificar los libros que frecuentemente son comprados juntos, visualizando los clustes de acuerdo con el grupo al cual pertenece cada libro<br/><br/>
 
-```markdown
-Syntax highlighted code block
+Para lograrlo se ha elegido visualizar por medio de Force Directed Diagram apoyado por una Matriz de Adyacencia que permita ver más clara la correlación en los libros comprados por los mismos clientes.  ![Visualización](https://github.com/vlarandac/Compras-de-libros-en-Amazon/blob/master/Nodos_Matriz.PNG?raw=true) <br/><br/>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Los insights logrados a partir de las visualizaciones son:<br/><br/>
+○ Existe una clara caracterización de los tres tipos de libros que eligen los compradores, Lberales, neutrales y conservadores<br/> 
+○ Quienes eligen libros neutrales en terminos generales siempre eligen de este tipo de libros sin elegir otro tipo.   <br/>
+○ Quienes eligen libros conservadores, eventualmente pueden elegir libros neutrales<br/>
+○ Existen menos compras registradas para libros neutrales, lo cual indica que la gente tiene bien marcada su tendencia<br/>
 
-1. Numbered
-2. List
+Usted puede acceder para ver los distintos proyectos de la clase en el siguiente link [Proyectos Visual Analytics 2017](http://johnguerra.co/classes/visual_analytics_fall_2017/students/index.html).
+<br/>
+Usted puede acceder al [Sitio del proyecto](https://vlarandac.github.io/Compras-de-libros-en-Amazon/).
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vlarandac/Compras-de-libros-en-Amazon-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
