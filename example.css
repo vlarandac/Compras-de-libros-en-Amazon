@@ -38,14 +38,14 @@ html,body,#wrapper {
 	fill: #ffbb33; 
 }
  
-#header1 {
+#nodos {
 	position: center;
 	top: 0;
 	left: 10px;
 	z-index: 10;
 	 
 }
-#header2 {
+#matriz {
 	position: center;
 	top: 0;
 	left: 10px;
