@@ -6,7 +6,7 @@
 - Está conformado por 104 nodos y 441 enlaces.<br>
 - Los nodos reciben valores **"l"**, **"n"** o **"c"** para indicar si son **"liberales"**, **"neutrales"** o **"conservadores"** de acuerdo con lo consignado por Mark Newman basado en una lectura de las descripciones y revisiones de los libros publicados en Amazon.	<br><br>
 
-## Lo que se busca con la visualziación <br><br>
+## Lo que se busca con la visualización <br><br>
 ○ H1 - Identificar los libros que frecuentemente son comprados juntos, visualizando los clustes de acuerdo con el grupo al cual pertenece cada libro<br/><br/>
 
 ## Hallazgos
@@ -17,20 +17,20 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 ○ Quienes eligen libros conservadores, eventualmente pueden elegir libros neutrales<br/>
 ○ Existen menos compras registradas para libros neutrales, lo cual indica que la gente tiene bien marcada su tendencia<br/>
 
-<!DOCTYPE html>
+## Visualización
 <html>
 	<head>
 	  	<meta charset="utf-8">
-		<title>Tendencia en compra de libros</title>
+		<title>Tendencia en compra de libros de política de EEUU en Amazon.com</title>
 	</head>
 	<body>
 		<div><iframe src="books_adjacence.html" frameborder="0" width="1500" height="1500" scrolling="yes"></iframe></div>
 	
 <p align="center" style="font-size: 13px; text-align: center;">
 	      Vivian Lucia Aranda Camacho<br>
-	      C&oacutedigo: 201022509<br>
+	      Código: 201022509<br>
 	      Universidad de los Andes<br>
-	      Maestr&iacutea en Ingenier&iacutea de Informaci&oacuten<br>
+	      Maestría en Ingeniería de Información<br>
 	      Visual Analytics
 	    </p>
 	   </body>
