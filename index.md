@@ -2,9 +2,9 @@
 <html>
 	<head>
 	  	<meta charset="utf-8">
-		<title>Tendencia en compra de libros</title>
-		<meta name="description" content="Tendencia en la compra de libros en Amazon">
- 		<meta name="keywords" content="Books, Amazon">	  	
+		<title>Tendencia en compra de libros de política de EEUU en Amazon.com</title>
+		<meta name="description" content="Tendencia en compra de libros de política de EEUU en Amazon.com">
+ 		<meta name="keywords" content="Books, Amazon.com, Politics">	  	
 	  	 <style>
 		  body {
 		      font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
