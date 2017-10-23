@@ -22,7 +22,9 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 	</head>
 	<body>
 		<div><iframe src="books_adjacence.html" frameborder="0" width="1200" height="1200" scrolling="yes"></iframe></div>
-	
+
+Adaptación de la publicación hecha por [Hung Do](http://bl.ocks.org/hungvietdo/7f8df0bcd7fba7e531e6/e49fcf4958640a2788e89892e54dff253b1d443b)
+
 <p align="center" style="font-size: 13px; text-align: center;">
 	      Vivian Lucia Aranda Camacho<br>
 	      Código: 201022509<br>
