@@ -9,10 +9,10 @@
 ## Hallazgos
 
 Los insights logrados a partir de las visualizaciones son:<br/><br/>
-○ Existe una clara caracterización de los tres tipos de libros que eligen los compradores, Lberales, neutrales y conservadores<br/> 
-○ Quienes eligen libros neutrales en terminos generales siempre eligen de este tipo de libros sin tener preferencia por otro tipo.   <br/>
-○ Quienes eligen libros conservadores, eventualmente pueden elegir libros neutrales<br/>
-○ Existen menos compras registradas para libros neutrales, lo cual indica que la gente tiene bien marcada su tendencia<br/>
+○ Existe una clara caracterización de los tres tipos de libros que eligen los compradores, Lberales, neutrales y conservadores, y la relación de compra entre los lobros de cada grupo es muy marcada. <br/> 
+○ Existe una mayor relación en comprar libros neutrales junto con libros conservadores que entre libros neutrales y liberales.<br/>
+○ El libro "Plan of Atack" de Bood Woodward, que está caracterizado como un libro neutral, se ha comprado junto con una gran cantidad de libros liberales, lo cual podría indicar que está mal categorizado en cuanto al grupo al cual fue asociado. <br/>
+○ Existen menos compras registradas para libros neutrales, lo cual indica que la gente tiene bien marcada su tendencia, bien sea liberal o conservadora<br/>
 
 ## Visualización
 <html>
