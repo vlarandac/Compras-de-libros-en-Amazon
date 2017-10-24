@@ -15,7 +15,6 @@ Los insights logrados a partir de las visualizaciones son:<br/><br/>
 ○ Existen menos compras registradas para libros neutrales, lo cual indica que la gente tiene bien marcada su tendencia, bien sea liberal o conservadora<br/>
 
 ## Visualización
-Adaptación de la publicación hecha por [Hung Do](http://bl.ocks.org/hungvietdo/7f8df0bcd7fba7e531e6/e49fcf4958640a2788e89892e54dff253b1d443b) 
 
 <html>
 	<head>
@@ -38,3 +37,4 @@ Adaptación de la publicación hecha por [Hung Do](http://bl.ocks.org/hungvietdo
 </html>
 
 
+Adaptación de la publicación hecha por [Hung Do](http://bl.ocks.org/hungvietdo/7f8df0bcd7fba7e531e6/e49fcf4958640a2788e89892e54dff253b1d443b) 
